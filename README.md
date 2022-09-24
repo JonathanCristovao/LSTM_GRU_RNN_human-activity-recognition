@@ -8,3 +8,19 @@ WPU: Sensor responsible for collecting the data from the four spu sensors.
 SPUs: Sensors inform the user's spatial location.
 
 
+## About Dataset
+
+[Dataset](https://www.kaggle.com/datasets/jonathansilva2020/recognition-of-human-activity-har-four-classes)
+
+The dataset was developed to perform the classification of two human activities, walking outdoors and indoors.
+
+# Data dictionary:
+
+    * seated: Data collected in a fixed sitting position in an ordinary chair.
+
+    * stand: Data collected in a fixed position with legs extended, standing.
+
+    * walking: Data collected on the street with an average speed of 3km/h.
+
+    * wuphill: Data collected indoors, a walking activity equipment with incline and speed of 5 km/h.
+
