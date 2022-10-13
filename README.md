@@ -10,7 +10,9 @@ SPUs: Sensors inform the user's spatial location.
 
 ## About Dataset
 
-[Dataset](https://www.kaggle.com/datasets/jonathansilva2020/recognition-of-human-activity-har-four-classes)
+[Dataset without data agumentation](https://www.kaggle.com/datasets/jonathansilva2020/recognition-of-human-activity-har-four-classes)
+
+[Dataset with data agumentation](https://www.kaggle.com/datasets/jonathansilva2020/recognition-of-human-activity-data-agumentation)
 
 The dataset was developed to perform the classification of two human activities, walking outdoors and indoors.
 
